@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1u,C_0603_1608Metric,6.35,1.27,180.0,top
+D1,PWR,LED_0603_1608Metric,11.938,6.858,0.0,top
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_XKB_U262-16XN-4BVC11,3.937,8.255,-90.0,top
+J2,Screw_Terminal_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",35.255,8.255,90.0,top
+R1,1k,R_2512_6332Metric,13.208,2.54,180.0,top
+R2,10k,R_0603_1608Metric,6.35,15.24,0.0,top
+R3,1k,R_0603_1608Metric,15.494,6.858,180.0,top
+R4,10k,R_0603_1608Metric,19.558,13.97,0.0,top
+R5,10k,R_0603_1608Metric,23.114,13.97,0.0,top
+R6,10k,R_0603_1608Metric,26.67,13.97,0.0,top
+SW1,SW_DIP_x03,SW_DIP_SPSTx03_Slide_7.5x9.6mm_W7.62mm_P2.54mm,22.86,7.366,90.0,top
+U1,CH224K,ESSOP-10_3.9x4.9mm_P1.00mm,13.716,11.938,180.0,top

@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+1u,C1,C_0603_1608Metric,C15849
+1k,R3,R_0603_1608Metric,C21190
+10k,"R2,R4,R5,R6",R_0603_1608Metric,C25804
+USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_XKB_U262-16XN-4BVC11,C2988369
+PWR,D1,LED_0603_1608Metric,C72041
+CH224K,U1,ESSOP-10_3.9x4.9mm_P1.00mm,C970725
+SW_DIP_x03,SW1,SW_DIP_SPSTx03_Slide_7.5x9.6mm_W7.62mm_P2.54mm,
+Screw_Terminal_01x02,J2,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",
+1k,R1,R_2512_6332Metric,
